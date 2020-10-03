@@ -1,0 +1,2556 @@
+{
+    "comments": [
+        {
+                "_id": "OWjrMYqnzxVbMg",
+                "channel_id": "36029255",
+                "commenter": {
+                    "_id": "96104904",
+                    "bio": null,
+                    "created_at": "2015-07-14T10:51:04.93534Z",
+                    "display_name": "TheodoroNog",
+                    "logo": "https://static-cdn.jtvnw.net/user-default-pictures-uv/ebe4cd89-b4f4-4cd9-adac-2f30151b4209-profile_image-300x300.png",
+                    "name": "theodoronog",
+                    "type": "user",
+                    "updated_at": "2019-10-21T11:41:14.223719Z"
+                },
+                "content_id": "497295395",
+                "content_offset_seconds": 0,
+                "content_type": "video",
+                "created_at": "2019-10-21T11:56:46.912147556Z",
+                "message": {
+                    "body": "!drop",
+                    "fragments": [
+                        {
+                            "text": "!drop"
+                        }
+                    ],
+                    "is_action": false,
+                    "user_badges": [
+                        {
+                            "_id": "premium",
+                            "version": "1"
+                        }
+                    ]
+                },
+                "more_replies": false,
+                "source": "comment",
+                "state": "published",
+                "updated_at": "2019-10-21T11:56:46.912147556Z"
+            },
+            {
+                "_id": "nuYJ7njNzxUJsA",
+                "channel_id": "36029255",
+                "commenter": {
+                    "_id": "455136101",
+                    "bio": null,
+                    "created_at": "2019-08-16T22:55:45.621682Z",
+                    "display_name": "mrswagboiii",
+                    "logo": "https://static-cdn.jtvnw.net/user-default-pictures-uv/41780b5a-def8-11e9-94d9-784f43822e80-profile_image-300x300.png",
+                    "name": "mrswagboiii",
+                    "type": "user",
+                    "updated_at": "2019-08-16T22:55:45.621682Z"
+                },
+                "content_id": "497295395",
+                "content_offset_seconds": 0,
+                "content_type": "video",
+                "created_at": "2019-10-21T23:31:54.198259652Z",
+                "message": {
+                    "body": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+                    "fragments": [
+                        {
+                            "text": "***"
+                        }
+                    ],
+                    "is_action": false
+                },
+                "more_replies": false,
+                "source": "comment",
+                "state": "published",
+                "updated_at": "2019-10-21T23:31:54.198259652Z"
+            },
+            {
+                "_id": "Aqh3e0jTzxXT3w",
+                "channel_id": "36029255",
+                "commenter": {
+                    "_id": "234609603",
+                    "bio": null,
+                    "created_at": "2018-06-28T02:23:57.223429Z",
+                    "display_name": "dark_reaper39",
+                    "logo": "https://static-cdn.jtvnw.net/jtv_user_pictures/136971bc-5d2a-41ae-bb15-270d9ac92351-profile_image-300x300.jpeg",
+                    "name": "dark_reaper39",
+                    "type": "user",
+                    "updated_at": "2019-10-22T01:12:16.116648Z"
+                },
+                "content_id": "497295395",
+                "content_offset_seconds": 0,
+                "content_type": "video",
+                "created_at": "2019-10-22T01:18:23.173831924Z",
+                "message": {
+                    "body": "!drop",
+                    "fragments": [
+                        {
+                            "text": "!drop"
+                        }
+                    ],
+                    "is_action": false,
+                    "user_color": "#0000FF"
+                },
+                "more_replies": false,
+                "source": "comment",
+                "state": "published",
+                "updated_at": "2019-10-22T01:18:23.173831924Z"
+            },
+            {
+                "_id": "HRo7OGH7zxUTmw",
+                "channel_id": "36029255",
+                "commenter": {
+                    "_id": "159937773",
+                    "bio": null,
+                    "created_at": "2017-06-12T01:25:36.496794Z",
+                    "display_name": "MyHauVuong",
+                    "logo": "https://static-cdn.jtvnw.net/jtv_user_pictures/69bbcd79-cbf7-40b9-affb-11acc33b96cf-profile_image-300x300.png",
+                    "name": "myhauvuong",
+                    "type": "user",
+                    "updated_at": "2019-03-28T21:12:30.304804Z"
+                },
+                "content_id": "497295395",
+                "content_offset_seconds": 0,
+                "content_type": "video",
+                "created_at": "2019-10-22T13:33:09.888902645Z",
+                "message": {
+                    "body": "K",
+                    "fragments": [
+                        {
+                            "text": "K"
+                        }
+                    ],
+                    "is_action": false,
+                    "user_badges": [
+                        {
+                            "_id": "premium",
+                            "version": "1"
+                        }
+                    ],
+                    "user_color": "#0000FF"
+                },
+                "more_replies": false,
+                "source": "comment",
+                "state": "published",
+                "updated_at": "2019-10-22T13:33:09.888902645Z"
+            },
+            {
+                "_id": "g-kLWPXVzxVKVA",
+                "channel_id": "36029255",
+                "commenter": {
+                    "_id": "421365627",
+                    "bio": "Tenho 14 anos (9 ano na escola), meus pais sabem que eu jogo assim , tendo nao tilta e bora!!!! elo nas season: 5 bronze 6 bronze7 prata8 gold 9 platina",
+                    "created_at": "2019-03-05T02:20:34.585735Z",
+                    "display_name": "matheuses",
+                    "logo": "https://static-cdn.jtvnw.net/jtv_user_pictures/a3f1a61e-06cf-4501-a4b2-41ccb859e64c-profile_image-300x300.png",
+                    "name": "matheuses",
+                    "type": "user",
+                    "updated_at": "2019-07-03T01:37:02.369883Z"
+                },
+                "content_id": "497295395",
+                "content_offset_seconds": 2,
+                "content_type": "video",
+                "created_at": "2019-10-22T02:07:24.64097332Z",
+                "message": {
+                    "body": "TwitchUnity TwitchUnity",
+                    "emoticons": [
+                        {
+                            "_id": "196892",
+                            "begin": 0,
+                            "end": 10
+                        },
+                        {
+                            "_id": "196892",
+                            "begin": 12,
+                            "end": 22
+                        }
+                    ],
+                    "fragments": [
+                        {
+                            "emoticon": {
+                                "emoticon_id": "196892",
+                                "emoticon_set_id": "0"
+                            },
+                            "text": "TwitchUnity"
+                        },
+                        {
+                            "text": " "
+                        },
+                        {
+                            "emoticon": {
+                                "emoticon_id": "196892",
+                                "emoticon_set_id": "0"
+                            },
+                            "text": "TwitchUnity"
+                        }
+                    ],
+                    "is_action": false
+                },
+                "more_replies": false,
+                "source": "comment",
+                "state": "published",
+                "updated_at": "2019-10-22T02:07:24.64097332Z"
+            },
+            {
+                "_id": "zFgICnjWzxWZOA",
+                "channel_id": "36029255",
+                "commenter": {
+                    "_id": "116897405",
+                    "bio": "shhhh no words only thrashers now.",
+                    "created_at": "2016-02-25T00:22:58.521956Z",
+                    "display_name": "dankestawp",
+                    "logo": "https://static-cdn.jtvnw.net/jtv_user_pictures/9d36907f-8504-47f6-8205-8d8170e470f5-profile_image-300x300.jpg",
+                    "name": "dankestawp",
+                    "type": "user",
+                    "updated_at": "2019-09-10T14:42:22.028494Z"
+                },
+                "content_id": "497295395",
+                "content_offset_seconds": 2,
+                "content_type": "video",
+                "created_at": "2019-10-22T02:16:45.948531609Z",
+                "message": {
+                    "body": "gergT_TK",
+                    "emoticons": [
+                        {
+                            "_id": "1005500_TK",
+                            "begin": 0,
+                            "end": 7
+                        }
+                    ],
+                    "fragments": [
+                        {
+                            "emoticon": {
+                                "emoticon_id": "1005500_TK",
+                                "emoticon_set_id": "300238151"
+                            },
+                            "text": "gergT_TK"
+                        }
+                    ],
+                    "is_action": false,
+                    "user_badges": [
+                        {
+                            "_id": "premium",
+                            "version": "1"
+                        }
+                    ],
+                    "user_color": "#FFFFFF"
+                },
+                "more_replies": false,
+                "source": "comment",
+                "state": "published",
+                "updated_at": "2019-10-22T02:16:45.948531609Z"
+            },
+            {
+                "_id": "v8-2zESYzxXNkw",
+                "channel_id": "36029255",
+                "commenter": {
+                    "_id": "43446010",
+                    "bio": null,
+                    "created_at": "2013-05-11T21:09:53.054814Z",
+                    "display_name": "fenodroide",
+                    "logo": "https://static-cdn.jtvnw.net/user-default-pictures-uv/ead5c8b2-a4c9-4724-b1dd-9f00b46cbd3d-profile_image-300x300.png",
+                    "name": "fenodroide",
+                    "type": "user",
+                    "updated_at": "2019-10-16T07:45:42.668654Z"
+                },
+                "content_id": "497295395",
+                "content_offset_seconds": 7,
+                "content_type": "video",
+                "created_at": "2019-10-21T07:16:56.152971165Z",
+                "message": {
+                    "body": "muuu",
+                    "fragments": [
+                        {
+                            "text": "muuu"
+                        }
+                    ],
+                    "is_action": false
+                },
+                "more_replies": false,
+                "source": "comment",
+                "state": "published",
+                "updated_at": "2019-10-21T07:16:56.152971165Z"
+            },
+            {
+                "_id": "qbku8C6FzxWPLg",
+                "channel_id": "36029255",
+                "commenter": {
+                    "_id": "225506087",
+                    "bio": null,
+                    "created_at": "2018-05-23T17:14:36.742453Z",
+                    "display_name": "teianoia",
+                    "logo": "https://static-cdn.jtvnw.net/jtv_user_pictures/e69dca1f-3213-4a6e-a749-a4e83af8c2d1-profile_image-300x300.png",
+                    "name": "teianoia",
+                    "type": "user",
+                    "updated_at": "2019-08-25T02:21:42.367461Z"
+                },
+                "content_id": "497295395",
+                "content_offset_seconds": 9,
+                "content_type": "video",
+                "created_at": "2019-10-21T01:27:11.566749748Z",
+                "message": {
+                    "body": "oooooo",
+                    "fragments": [
+                        {
+                            "text": "oooooo"
+                        }
+                    ],
+                    "is_action": false
+                },
+                "more_replies": false,
+                "source": "comment",
+                "state": "published",
+                "updated_at": "2019-10-21T01:27:11.566749748Z"
+            },
+            {
+                "_id": "bAlQAAWmzxXHdw",
+                "channel_id": "36029255",
+                "commenter": {
+                    "_id": "41386254",
+                    "bio": null,
+                    "created_at": "2013-03-16T12:52:09.505479Z",
+                    "display_name": "D4jje81",
+                    "logo": "https://static-cdn.jtvnw.net/user-default-pictures-uv/13e5fa74-defa-11e9-809c-784f43822e80-profile_image-300x300.png",
+                    "name": "d4jje81",
+                    "type": "user",
+                    "updated_at": "2019-09-01T08:05:04.362783Z"
+                },
+                "content_id": "497295395",
+                "content_offset_seconds": 10,
+                "content_type": "video",
+                "created_at": "2019-10-21T11:28:55.317867304Z",
+                "message": {
+                    "body": "BibleThump",
+                    "emoticons": [
+                        {
+                            "_id": "86",
+                            "begin": 0,
+                            "end": 9
+                        }
+                    ],
+                    "fragments": [
+                        {
+                            "emoticon": {
+                                "emoticon_id": "86",
+                                "emoticon_set_id": "0"
+                            },
+                            "text": "BibleThump"
+                        }
+                    ],
+                    "is_action": false,
+                    "user_badges": [
+                        {
+                            "_id": "premium",
+                            "version": "1"
+                        }
+                    ]
+                },
+                "more_replies": false,
+                "replies": [
+                    {
+                        "_id": "20-6u1bmzxWZng",
+                        "channel_id": "36029255",
+                        "commenter": {
+                            "_id": "136725476",
+                            "bio": "Variety streams f\u00fcr meine Freunde :)",
+                            "created_at": "2016-10-09T22:35:32.151384Z",
+                            "display_name": "kolleters69",
+                            "logo": "https://static-cdn.jtvnw.net/jtv_user_pictures/0bcc442d-54fb-4c3b-9490-144b235d7dd8-profile_image-300x300.jpg",
+                            "name": "kolleters69",
+                            "type": "user",
+                            "updated_at": "2019-09-20T23:31:35.017693Z"
+                        },
+                        "content_id": "497295395",
+                        "content_offset_seconds": 10,
+                        "content_type": "video",
+                        "created_at": "2019-10-22T07:07:35.114807098Z",
+                        "message": {
+                            "body": "sad",
+                            "fragments": [
+                                {
+                                    "text": "sad"
+                                }
+                            ],
+                            "is_action": false
+                        },
+                        "parent_id": "bAlQAAWmzxXHdw",
+                        "source": "comment",
+                        "state": "published",
+                        "updated_at": "2019-10-22T07:07:35.114807098Z"
+                    }
+                ],
+                "source": "comment",
+                "state": "published",
+                "updated_at": "2019-10-21T11:28:55.317867304Z"
+            },
+            {
+                "_id": "I1_Yu4kU0BWMXA",
+                "channel_id": "36029255",
+                "commenter": {
+                    "_id": "276912149",
+                    "bio": null,
+                    "created_at": "2018-11-21T18:32:54.964923Z",
+                    "display_name": "charlietoll",
+                    "logo": "https://static-cdn.jtvnw.net/user-default-pictures-uv/ce57700a-def9-11e9-842d-784f43822e80-profile_image-300x300.png",
+                    "name": "charlietoll",
+                    "type": "user",
+                    "updated_at": "2019-10-23T01:16:04.377128Z"
+                },
+                "content_id": "497295395",
+                "content_offset_seconds": 10,
+                "content_type": "video",
+                "created_at": "2019-10-22T21:14:11.643348309Z",
+                "message": {
+                    "body": "!drop",
+                    "fragments": [
+                        {
+                            "text": "!drop"
+                        }
+                    ],
+                    "is_action": false
+                },
+                "more_replies": false,
+                "source": "comment",
+                "state": "published",
+                "updated_at": "2019-10-22T21:14:11.643348309Z"
+            },
+            {
+                "_id": "Cf0_KPKDzxU8lQ",
+                "channel_id": "36029255",
+                "commenter": {
+                    "_id": "463294620",
+                    "bio": "Hello! im a newcomer in Twitch, Starting from the very beginning! stay if you enjoy the Stream, i will start as soon as i can to entertain everyone of you with a Cam + Mic, but that Quality will take some time! Lots of fun, Betterwardbush :D ",
+                    "created_at": "2019-09-20T06:48:57.431947Z",
+                    "display_name": "rlbetterwardbush",
+                    "logo": "https://static-cdn.jtvnw.net/jtv_user_pictures/ec7e2b36-f359-4ece-9d8e-f0ce20688abb-profile_image-300x300.png",
+                    "name": "rlbetterwardbush",
+                    "type": "user",
+                    "updated_at": "2019-10-20T15:37:13.869636Z"
+                },
+                "content_id": "497295395",
+                "content_offset_seconds": 11,
+                "content_type": "video",
+                "created_at": "2019-10-21T01:04:31.007368076Z",
+                "message": {
+                    "body": "OK",
+                    "fragments": [
+                        {
+                            "text": "OK"
+                        }
+                    ],
+                    "is_action": false
+                },
+                "more_replies": false,
+                "source": "comment",
+                "state": "published",
+                "updated_at": "2019-10-21T01:04:31.007368076Z"
+            },
+            {
+                "_id": "UcEWso8Q0BUy-Q",
+                "channel_id": "36029255",
+                "commenter": {
+                    "_id": "128090832",
+                    "bio": "Hello, I'm Luc a CS:GO, plus more, streamer. I am not big one so I don't except donations :/          I usually stream on Saturdays around 2-3 o'clock on twitch. On YouTube, I stream on Sundays through out the day.",
+                    "created_at": "2016-06-29T21:24:35.759017Z",
+                    "display_name": "RealLuc",
+                    "logo": "https://static-cdn.jtvnw.net/jtv_user_pictures/realluc-profile_image-cf5d866fc5cc7859-300x300.png",
+                    "name": "realluc",
+                    "type": "user",
+                    "updated_at": "2019-10-20T16:36:54.689685Z"
+                },
+                "content_id": "497295395",
+                "content_offset_seconds": 12,
+                "content_type": "video",
+                "created_at": "2019-10-22T20:01:19.259472045Z",
+                "message": {
+                    "body": "?",
+                    "fragments": [
+                        {
+                            "text": "?"
+                        }
+                    ],
+                    "is_action": false
+                },
+                "more_replies": false,
+                "source": "comment",
+                "state": "published",
+                "updated_at": "2019-10-22T20:01:19.259472045Z"
+            },
+            {
+                "_id": "ed700519-a803-48b5-95d8-ae91857d16a8",
+                "channel_id": "36029255",
+                "commenter": {
+                    "_id": "111591400",
+                    "bio": null,
+                    "created_at": "2016-01-03T22:40:53.998178Z",
+                    "display_name": "againstallexpectations",
+                    "logo": "https://static-cdn.jtvnw.net/user-default-pictures-uv/ebb84563-db81-4b9c-8940-64ed33ccfc7b-profile_image-300x300.png",
+                    "name": "againstallexpectations",
+                    "type": "user",
+                    "updated_at": "2019-10-20T13:20:56.224306Z"
+                },
+                "content_id": "497295395",
+                "content_offset_seconds": 12.053,
+                "content_type": "video",
+                "created_at": "2019-10-20T18:20:23.753Z",
+                "message": {
+                    "body": "rebroadcast Pog",
+                    "fragments": [
+                        {
+                            "text": "rebroadcast Pog"
+                        }
+                    ],
+                    "is_action": false,
+                    "user_color": "#1E90FF",
+                    "user_notice_params": {}
+                },
+                "more_replies": false,
+                "source": "chat",
+                "state": "published",
+                "updated_at": "2019-10-20T18:20:23.753Z"
+            },
+            {
+                "_id": "cda978b4-084c-4a11-95ea-6031eb945e81",
+                "channel_id": "36029255",
+                "commenter": {
+                    "_id": "416641980",
+                    "bio": null,
+                    "created_at": "2019-02-15T08:53:50.36161Z",
+                    "display_name": "sounyuumaru",
+                    "logo": "https://static-cdn.jtvnw.net/user-default-pictures-uv/215b7342-def9-11e9-9a66-784f43822e80-profile_image-300x300.png",
+                    "name": "sounyuumaru",
+                    "type": "user",
+                    "updated_at": "2019-10-22T23:56:41.269328Z"
+                },
+                "content_id": "497295395",
+                "content_offset_seconds": 13.204,
+                "content_type": "video",
+                "created_at": "2019-10-20T18:20:24.904Z",
+                "message": {
+                    "body": "IG or GRF",
+                    "fragments": [
+                        {
+                            "text": "IG or GRF"
+                        }
+                    ],
+                    "is_action": false,
+                    "user_notice_params": {}
+                },
+                "more_replies": false,
+                "source": "chat",
+                "state": "published",
+                "updated_at": "2019-10-20T18:20:24.904Z"
+            },
+            {
+                "_id": "7b6c4578-1916-495b-9434-1389a73d2689",
+                "channel_id": "36029255",
+                "commenter": {
+                    "_id": "113466838",
+                    "bio": null,
+                    "created_at": "2016-01-21T21:23:04.09466Z",
+                    "display_name": "pandarectv",
+                    "logo": "https://static-cdn.jtvnw.net/jtv_user_pictures/a39658d8-ec5a-4e05-81af-2dbb97399dac-profile_image-300x300.jpeg",
+                    "name": "pandarectv",
+                    "type": "user",
+                    "updated_at": "2019-10-04T10:25:12.097472Z"
+                },
+                "content_id": "497295395",
+                "content_offset_seconds": 13.971,
+                "content_type": "video",
+                "created_at": "2019-10-20T18:20:25.671Z",
+                "message": {
+                    "body": "REBROADCAST POG",
+                    "fragments": [
+                        {
+                            "text": "REBROADCAST POG"
+                        }
+                    ],
+                    "is_action": false,
+                    "user_badges": [
+                        {
+                            "_id": "premium",
+                            "version": "1"
+                        }
+                    ],
+                    "user_notice_params": {}
+                },
+                "more_replies": false,
+                "source": "chat",
+                "state": "published",
+                "updated_at": "2019-10-20T18:20:25.671Z"
+            },
+            {
+                "_id": "2HXkOO-3zxW6JQ",
+                "channel_id": "36029255",
+                "commenter": {
+                    "_id": "262820923",
+                    "bio": null,
+                    "created_at": "2018-09-26T19:28:54.720624Z",
+                    "display_name": "weinersandw1ch",
+                    "logo": "https://static-cdn.jtvnw.net/user-default-pictures-uv/215b7342-def9-11e9-9a66-784f43822e80-profile_image-300x300.png",
+                    "name": "weinersandw1ch",
+                    "type": "user",
+                    "updated_at": "2019-10-21T16:47:59.001026Z"
+                },
+                "content_id": "497295395",
+                "content_offset_seconds": 15,
+                "content_type": "video",
+                "created_at": "2019-10-21T16:57:13.001928251Z",
+                "message": {
+                    "body": "!drop",
+                    "fragments": [
+                        {
+                            "text": "!drop"
+                        }
+                    ],
+                    "is_action": false
+                },
+                "more_replies": false,
+                "source": "comment",
+                "state": "published",
+                "updated_at": "2019-10-21T16:57:13.001928251Z"
+            },
+            {
+                "_id": "tNeN-_LNzxVWoQ",
+                "channel_id": "36029255",
+                "commenter": {
+                    "_id": "450899359",
+                    "bio": "Mi nombre es Emiliano. Tengo 24 a\u00f1os, vivo en Mendoza, Argentina. Soy T\u00e9cnico en Desarrollo de Videojuegos.Soy un vicio de LoL por el momento porque es donde la computadora se lo banca pero juego de todo un poco Me gusta cagarme de risa y pasarla bien y sobre todo hacer re\u00edr ",
+                    "created_at": "2019-07-27T05:32:05.486679Z",
+                    "display_name": "SaysNoa",
+                    "logo": "https://static-cdn.jtvnw.net/jtv_user_pictures/0375572e-aa56-4ede-8e41-2509df371280-profile_image-300x300.png",
+                    "name": "saysnoa",
+                    "type": "user",
+                    "updated_at": "2019-10-22T15:06:11.820387Z"
+                },
+                "content_id": "497295395",
+                "content_offset_seconds": 15,
+                "content_type": "video",
+                "created_at": "2019-10-21T23:40:38.406368781Z",
+                "message": {
+                    "body": "!drop",
+                    "fragments": [
+                        {
+                            "text": "!drop"
+                        }
+                    ],
+                    "is_action": false
+                },
+                "more_replies": false,
+                "source": "comment",
+                "state": "published",
+                "updated_at": "2019-10-21T23:40:38.406368781Z"
+            },
+            {
+                "_id": "7n2cZ0sA0BUdjA",
+                "channel_id": "36029255",
+                "commenter": {
+                    "_id": "225993123",
+                    "bio": null,
+                    "created_at": "2018-05-25T19:34:13.515522Z",
+                    "display_name": "theaaronshot",
+                    "logo": "https://static-cdn.jtvnw.net/user-default-pictures-uv/75305d54-c7cc-40d1-bb9c-91fbe85943c7-profile_image-300x300.png",
+                    "name": "theaaronshot",
+                    "type": "user",
+                    "updated_at": "2019-05-24T02:53:45.851974Z"
+                },
+                "content_id": "497295395",
+                "content_offset_seconds": 15,
+                "content_type": "video",
+                "created_at": "2019-10-22T15:03:13.766123264Z",
+                "message": {
+                    "body": "!drop",
+                    "fragments": [
+                        {
+                            "text": "!drop"
+                        }
+                    ],
+                    "is_action": false
+                },
+                "more_replies": false,
+                "source": "comment",
+                "state": "published",
+                "updated_at": "2019-10-22T15:03:13.766123264Z"
+            },
+            {
+                "_id": "f685665e-4173-46f2-b998-ec54f3225385",
+                "channel_id": "36029255",
+                "commenter": {
+                    "_id": "46013752",
+                    "bio": null,
+                    "created_at": "2013-07-13T15:01:32.508859Z",
+                    "display_name": "gtstrullo99",
+                    "logo": "https://static-cdn.jtvnw.net/jtv_user_pictures/gtstrullo99-profile_image-09e9b41a074f6d27-300x300.jpeg",
+                    "name": "gtstrullo99",
+                    "type": "user",
+                    "updated_at": "2019-09-22T18:30:12.284123Z"
+                },
+                "content_id": "497295395",
+                "content_offset_seconds": 15.985,
+                "content_type": "video",
+                "created_at": "2019-10-20T18:20:27.685Z",
+                "message": {
+                    "body": "pepeD",
+                    "fragments": [
+                        {
+                            "text": "pepeD"
+                        }
+                    ],
+                    "is_action": false,
+                    "user_color": "#34A134",
+                    "user_notice_params": {}
+                },
+                "more_replies": false,
+                "source": "chat",
+                "state": "published",
+                "updated_at": "2019-10-20T18:20:27.685Z"
+            },
+            {
+                "_id": "WTq_2EaYzxUQGg",
+                "channel_id": "36029255",
+                "commenter": {
+                    "_id": "43446010",
+                    "bio": null,
+                    "created_at": "2013-05-11T21:09:53.054814Z",
+                    "display_name": "fenodroide",
+                    "logo": "https://static-cdn.jtvnw.net/user-default-pictures-uv/ead5c8b2-a4c9-4724-b1dd-9f00b46cbd3d-profile_image-300x300.png",
+                    "name": "fenodroide",
+                    "type": "user",
+                    "updated_at": "2019-10-16T07:45:42.668654Z"
+                },
+                "content_id": "497295395",
+                "content_offset_seconds": 16,
+                "content_type": "video",
+                "created_at": "2019-10-21T07:17:04.970959629Z",
+                "message": {
+                    "body": "hk free",
+                    "fragments": [
+                        {
+                            "text": "hk free"
+                        }
+                    ],
+                    "is_action": false
+                },
+                "more_replies": false,
+                "source": "comment",
+                "state": "published",
+                "updated_at": "2019-10-21T07:17:04.970959629Z"
+            },
+            {
+                "_id": "Pu3xgPm_zxVKgA",
+                "channel_id": "36029255",
+                "commenter": {
+                    "_id": "117604612",
+                    "bio": null,
+                    "created_at": "2016-03-03T12:43:45.584577Z",
+                    "display_name": "EjDem333",
+                    "logo": "https://static-cdn.jtvnw.net/jtv_user_pictures/bb50d9249fdcf713-profile_image-300x300.png",
+                    "name": "ejdem333",
+                    "type": "user",
+                    "updated_at": "2019-10-21T11:42:17.06021Z"
+                },
+                "content_id": "497295395",
+                "content_offset_seconds": 16,
+                "content_type": "video",
+                "created_at": "2019-10-21T19:24:33.249875494Z",
+                "message": {
+                    "body": "hi",
+                    "fragments": [
+                        {
+                            "text": "hi"
+                        }
+                    ],
+                    "is_action": false
+                },
+                "more_replies": false,
+                "source": "comment",
+                "state": "published",
+                "updated_at": "2019-10-21T19:24:33.249875494Z"
+            },
+            {
+                "_id": "lkELmuzEzxWsXw",
+                "channel_id": "36029255",
+                "commenter": {
+                    "_id": "409477056",
+                    "bio": null,
+                    "created_at": "2019-01-14T17:38:10.715998Z",
+                    "display_name": "hectorlasbr",
+                    "logo": "https://static-cdn.jtvnw.net/user-default-pictures-uv/215b7342-def9-11e9-9a66-784f43822e80-profile_image-300x300.png",
+                    "name": "hectorlasbr",
+                    "type": "user",
+                    "updated_at": "2019-01-14T17:38:10.715998Z"
+                },
+                "content_id": "497295395",
+                "content_offset_seconds": 16,
+                "content_type": "video",
+                "created_at": "2019-10-21T20:55:15.403720285Z",
+                "message": {
+                    "body": "!drop",
+                    "fragments": [
+                        {
+                            "text": "!drop"
+                        }
+                    ],
+                    "is_action": false
+                },
+                "more_replies": false,
+                "source": "comment",
+                "state": "published",
+                "updated_at": "2019-10-21T20:55:15.403720285Z"
+            },
+            {
+                "_id": "e6730e21-d79e-4c46-9fc7-241bad792589",
+                "channel_id": "36029255",
+                "commenter": {
+                    "_id": "99939754",
+                    "bio": "Me from Afryka",
+                    "created_at": "2015-08-20T15:13:56.537581Z",
+                    "display_name": "MurzyneqBambo",
+                    "logo": "https://static-cdn.jtvnw.net/user-default-pictures-uv/75305d54-c7cc-40d1-bb9c-91fbe85943c7-profile_image-300x300.png",
+                    "name": "murzyneqbambo",
+                    "type": "user",
+                    "updated_at": "2019-09-23T01:36:20.25961Z"
+                },
+                "content_id": "497295395",
+                "content_offset_seconds": 16.161,
+                "content_type": "video",
+                "created_at": "2019-10-20T18:20:27.861Z",
+                "message": {
+                    "body": "GO TL !! Pog",
+                    "fragments": [
+                        {
+                            "text": "GO TL !! Pog"
+                        }
+                    ],
+                    "is_action": false,
+                    "user_color": "#D2691E",
+                    "user_notice_params": {}
+                },
+                "more_replies": false,
+                "source": "chat",
+                "state": "published",
+                "updated_at": "2019-10-20T18:20:27.861Z"
+            },
+            {
+                "_id": "O6ckdfHQzxV-GQ",
+                "channel_id": "36029255",
+                "commenter": {
+                    "_id": "468403832",
+                    "bio": null,
+                    "created_at": "2019-10-21T14:17:18.178727Z",
+                    "display_name": "NA_are_School_Shooters_",
+                    "logo": "https://static-cdn.jtvnw.net/user-default-pictures-uv/13e5fa74-defa-11e9-809c-784f43822e80-profile_image-300x300.png",
+                    "name": "na_are_school_shooters_",
+                    "type": "user",
+                    "updated_at": "2019-10-22T00:31:16.655848Z"
+                },
+                "content_id": "497295395",
+                "content_offset_seconds": 18,
+                "content_type": "video",
+                "created_at": "2019-10-22T00:35:30.390702498Z",
+                "message": {
+                    "body": "lolll",
+                    "fragments": [
+                        {
+                            "text": "lolll"
+                        }
+                    ],
+                    "is_action": false
+                },
+                "more_replies": false,
+                "source": "comment",
+                "state": "published",
+                "updated_at": "2019-10-22T00:35:30.390702498Z"
+            },
+            {
+                "_id": "FmJFLTGFzxUpsg",
+                "channel_id": "36029255",
+                "commenter": {
+                    "_id": "225506087",
+                    "bio": null,
+                    "created_at": "2018-05-23T17:14:36.742453Z",
+                    "display_name": "teianoia",
+                    "logo": "https://static-cdn.jtvnw.net/jtv_user_pictures/e69dca1f-3213-4a6e-a749-a4e83af8c2d1-profile_image-300x300.png",
+                    "name": "teianoia",
+                    "type": "user",
+                    "updated_at": "2019-08-25T02:21:42.367461Z"
+                },
+                "content_id": "497295395",
+                "content_offset_seconds": 19,
+                "content_type": "video",
+                "created_at": "2019-10-21T01:27:21.180713263Z",
+                "message": {
+                    "body": "ok",
+                    "fragments": [
+                        {
+                            "text": "ok"
+                        }
+                    ],
+                    "is_action": false
+                },
+                "more_replies": false,
+                "source": "comment",
+                "state": "published",
+                "updated_at": "2019-10-21T01:27:21.180713263Z"
+            },
+            {
+                "_id": "sAuUCN6DzxVvNg",
+                "channel_id": "36029255",
+                "commenter": {
+                    "_id": "100926431",
+                    "bio": null,
+                    "created_at": "2015-08-29T16:17:24.237849Z",
+                    "display_name": "Cuervodeplata",
+                    "logo": "https://static-cdn.jtvnw.net/user-default-pictures-uv/dbdc9198-def8-11e9-8681-784f43822e80-profile_image-300x300.png",
+                    "name": "cuervodeplata",
+                    "type": "user",
+                    "updated_at": "2019-10-22T01:04:31.123627Z"
+                },
+                "content_id": "497295395",
+                "content_offset_seconds": 21,
+                "content_type": "video",
+                "created_at": "2019-10-21T01:03:04.570689725Z",
+                "message": {
+                    "body": "!drop",
+                    "fragments": [
+                        {
+                            "text": "!drop"
+                        }
+                    ],
+                    "is_action": false
+                },
+                "more_replies": false,
+                "source": "comment",
+                "state": "published",
+                "updated_at": "2019-10-21T01:03:04.570689725Z"
+            },
+            {
+                "_id": "WX6Yj2vQzxXlOw",
+                "channel_id": "36029255",
+                "commenter": {
+                    "_id": "116430966",
+                    "bio": "Please Subscribe and Donate whenever you want. I am not forcing anyone to do those things, just do it out of the kindness of the heart. And don't forget to just have fun and chat with people while watching",
+                    "created_at": "2016-02-20T15:17:59.575139Z",
+                    "display_name": "vf_goldkm",
+                    "logo": "https://static-cdn.jtvnw.net/jtv_user_pictures/439e26b1-f6fc-4177-9a51-0db1ea59e7ee-profile_image-300x300.jpg",
+                    "name": "vf_goldkm",
+                    "type": "user",
+                    "updated_at": "2019-09-09T19:23:53.089761Z"
+                },
+                "content_id": "497295395",
+                "content_offset_seconds": 21,
+                "content_type": "video",
+                "created_at": "2019-10-22T00:25:55.295829878Z",
+                "message": {
+                    "body": "how to we get the drops?",
+                    "fragments": [
+                        {
+                            "text": "how to we get the drops?"
+                        }
+                    ],
+                    "is_action": false,
+                    "user_badges": [
+                        {
+                            "_id": "premium",
+                            "version": "1"
+                        }
+                    ],
+                    "user_color": "#CBB701"
+                },
+                "more_replies": false,
+                "source": "comment",
+                "state": "published",
+                "updated_at": "2019-10-22T00:25:55.295829878Z"
+            },
+            {
+                "_id": "94862636-e2b6-4c47-af86-3c2b1e114a89",
+                "channel_id": "36029255",
+                "commenter": {
+                    "_id": "467208944",
+                    "bio": null,
+                    "created_at": "2019-10-14T23:05:35.363427Z",
+                    "display_name": "wasitcomming",
+                    "logo": "https://static-cdn.jtvnw.net/user-default-pictures-uv/ce57700a-def9-11e9-842d-784f43822e80-profile_image-300x300.png",
+                    "name": "wasitcomming",
+                    "type": "user",
+                    "updated_at": "2019-10-14T23:05:35.363427Z"
+                },
+                "content_id": "497295395",
+                "content_offset_seconds": 22.52,
+                "content_type": "video",
+                "created_at": "2019-10-20T18:20:34.22Z",
+                "message": {
+                    "body": "i hope tl wins",
+                    "fragments": [
+                        {
+                            "text": "i hope tl wins"
+                        }
+                    ],
+                    "is_action": false,
+                    "user_notice_params": {}
+                },
+                "more_replies": false,
+                "source": "chat",
+                "state": "published",
+                "updated_at": "2019-10-20T18:20:34.22Z"
+            },
+            {
+                "_id": "cc31618e-8107-4ab3-ae41-950290502883",
+                "channel_id": "36029255",
+                "commenter": {
+                    "_id": "273829625",
+                    "bio": null,
+                    "created_at": "2018-11-10T09:37:54.64832Z",
+                    "display_name": "skblrumo",
+                    "logo": "https://static-cdn.jtvnw.net/user-default-pictures-uv/41780b5a-def8-11e9-94d9-784f43822e80-profile_image-300x300.png",
+                    "name": "skblrumo",
+                    "type": "user",
+                    "updated_at": "2019-10-24T02:35:52.854134Z"
+                },
+                "content_id": "497295395",
+                "content_offset_seconds": 22.861,
+                "content_type": "video",
+                "created_at": "2019-10-20T18:20:34.561Z",
+                "message": {
+                    "body": "pepeD",
+                    "fragments": [
+                        {
+                            "text": "pepeD"
+                        }
+                    ],
+                    "is_action": false,
+                    "user_notice_params": {}
+                },
+                "more_replies": false,
+                "source": "chat",
+                "state": "published",
+                "updated_at": "2019-10-20T18:20:34.561Z"
+            },
+            {
+                "_id": "a821a44d-c221-4df8-bbdd-e003b6bd6b88",
+                "channel_id": "36029255",
+                "commenter": {
+                    "_id": "9160599",
+                    "bio": "I like roller derby, shopping carts, and kittens.",
+                    "created_at": "2009-11-15T22:22:28.984068Z",
+                    "display_name": "nocklebeast",
+                    "logo": "https://static-cdn.jtvnw.net/jtv_user_pictures/b7c98c09-4452-48d8-8efb-f1ad311a6cc8-profile_image-300x300.png",
+                    "name": "nocklebeast",
+                    "type": "user",
+                    "updated_at": "2019-10-20T16:09:25.615757Z"
+                },
+                "content_id": "497295395",
+                "content_offset_seconds": 24.874,
+                "content_type": "video",
+                "created_at": "2019-10-20T18:20:36.574Z",
+                "message": {
+                    "body": "is this live?",
+                    "fragments": [
+                        {
+                            "text": "is this live?"
+                        }
+                    ],
+                    "is_action": false,
+                    "user_badges": [
+                        {
+                            "_id": "premium",
+                            "version": "1"
+                        }
+                    ],
+                    "user_color": "#D2691E",
+                    "user_notice_params": {}
+                },
+                "more_replies": false,
+                "source": "chat",
+                "state": "published",
+                "updated_at": "2019-10-20T18:20:36.574Z"
+            },
+            {
+                "_id": "C1UksxSmzxWwvw",
+                "channel_id": "36029255",
+                "commenter": {
+                    "_id": "41386254",
+                    "bio": null,
+                    "created_at": "2013-03-16T12:52:09.505479Z",
+                    "display_name": "D4jje81",
+                    "logo": "https://static-cdn.jtvnw.net/user-default-pictures-uv/13e5fa74-defa-11e9-809c-784f43822e80-profile_image-300x300.png",
+                    "name": "d4jje81",
+                    "type": "user",
+                    "updated_at": "2019-09-01T08:05:04.362783Z"
+                },
+                "content_id": "497295395",
+                "content_offset_seconds": 25,
+                "content_type": "video",
+                "created_at": "2019-10-21T11:30:02.759117427Z",
+                "message": {
+                    "body": "no",
+                    "fragments": [
+                        {
+                            "text": "no"
+                        }
+                    ],
+                    "is_action": false,
+                    "user_badges": [
+                        {
+                            "_id": "premium",
+                            "version": "1"
+                        }
+                    ]
+                },
+                "more_replies": false,
+                "source": "comment",
+                "state": "published",
+                "updated_at": "2019-10-21T11:30:02.759117427Z"
+            },
+            {
+                "_id": "aobFBUhP0BUMBg",
+                "channel_id": "36029255",
+                "commenter": {
+                    "_id": "151882868",
+                    "bio": null,
+                    "created_at": "2017-03-30T14:33:21.338609Z",
+                    "display_name": "thewashuuking",
+                    "logo": "https://static-cdn.jtvnw.net/jtv_user_pictures/d45c781d-8fce-4663-a485-51c598e37f2a-profile_image-300x300.png",
+                    "name": "thewashuuking",
+                    "type": "user",
+                    "updated_at": "2019-10-23T15:34:02.443343Z"
+                },
+                "content_id": "497295395",
+                "content_offset_seconds": 25,
+                "content_type": "video",
+                "created_at": "2019-10-23T15:10:40.649322577Z",
+                "message": {
+                    "body": "!drop",
+                    "fragments": [
+                        {
+                            "text": "!drop"
+                        }
+                    ],
+                    "is_action": false
+                },
+                "more_replies": false,
+                "source": "comment",
+                "state": "published",
+                "updated_at": "2019-10-23T15:10:40.649322577Z"
+            },
+            {
+                "_id": "2-FsCHb4zxWptg",
+                "channel_id": "36029255",
+                "commenter": {
+                    "_id": "90594549",
+                    "bio": "bih",
+                    "created_at": "2015-05-09T00:00:47.843906Z",
+                    "display_name": "iruaI",
+                    "logo": "https://static-cdn.jtvnw.net/jtv_user_pictures/iruai-profile_image-7617a8c62c9fdbe8-300x300.png",
+                    "name": "iruai",
+                    "type": "user",
+                    "updated_at": "2019-10-24T17:27:06.31294Z"
+                },
+                "content_id": "497295395",
+                "content_offset_seconds": 26,
+                "content_type": "video",
+                "created_at": "2019-10-22T12:39:40.750884914Z",
+                "message": {
+                    "body": "!SCHEDULE",
+                    "fragments": [
+                        {
+                            "text": "!SCHEDULE"
+                        }
+                    ],
+                    "is_action": false,
+                    "user_badges": [
+                        {
+                            "_id": "premium",
+                            "version": "1"
+                        }
+                    ],
+                    "user_color": "#000000"
+                },
+                "more_replies": false,
+                "source": "comment",
+                "state": "published",
+                "updated_at": "2019-10-22T12:39:40.750884914Z"
+            },
+            {
+                "_id": "kIv2I5ylzxVo7Q",
+                "channel_id": "36029255",
+                "commenter": {
+                    "_id": "41386254",
+                    "bio": null,
+                    "created_at": "2013-03-16T12:52:09.505479Z",
+                    "display_name": "D4jje81",
+                    "logo": "https://static-cdn.jtvnw.net/user-default-pictures-uv/13e5fa74-defa-11e9-809c-784f43822e80-profile_image-300x300.png",
+                    "name": "d4jje81",
+                    "type": "user",
+                    "updated_at": "2019-09-01T08:05:04.362783Z"
+                },
+                "content_id": "497295395",
+                "content_offset_seconds": 27,
+                "content_type": "video",
+                "created_at": "2019-10-21T11:21:24.957132128Z",
+                "message": {
+                    "body": "mmm...",
+                    "fragments": [
+                        {
+                            "text": "mmm..."
+                        }
+                    ],
+                    "is_action": false,
+                    "user_badges": [
+                        {
+                            "_id": "premium",
+                            "version": "1"
+                        }
+                    ]
+                },
+                "more_replies": false,
+                "source": "comment",
+                "state": "published",
+                "updated_at": "2019-10-21T11:21:24.957132128Z"
+            },
+            {
+                "_id": "Ll7CCb7bzxV0rQ",
+                "channel_id": "36029255",
+                "commenter": {
+                    "_id": "124748425",
+                    "bio": "From JAM to SLAM. We Dunkin. ",
+                    "created_at": "2016-05-21T05:27:14.158885Z",
+                    "display_name": "TehBinkyBoy",
+                    "logo": "https://static-cdn.jtvnw.net/jtv_user_pictures/tehbinkyboy-profile_image-e8ad679cde732996-300x300.png",
+                    "name": "tehbinkyboy",
+                    "type": "user",
+                    "updated_at": "2019-10-17T07:22:11.844491Z"
+                },
+                "content_id": "497295395",
+                "content_offset_seconds": 27,
+                "content_type": "video",
+                "created_at": "2019-10-22T03:53:24.178051598Z",
+                "message": {
+                    "body": "!drop",
+                    "fragments": [
+                        {
+                            "text": "!drop"
+                        }
+                    ],
+                    "is_action": false,
+                    "user_badges": [
+                        {
+                            "_id": "premium",
+                            "version": "1"
+                        }
+                    ]
+                },
+                "more_replies": false,
+                "source": "comment",
+                "state": "published",
+                "updated_at": "2019-10-22T03:53:24.178051598Z"
+            },
+            {
+                "_id": "84d4bf46-4b94-4afd-b9eb-881fcfa2c409",
+                "channel_id": "36029255",
+                "commenter": {
+                    "_id": "86581180",
+                    "bio": "31 year old Norwegian gamer, loves anime, mobas, strategy games and mmos :)",
+                    "created_at": "2015-03-27T20:46:34.750331Z",
+                    "display_name": "Dragoneer3",
+                    "logo": "https://static-cdn.jtvnw.net/jtv_user_pictures/76840613-29e1-4c05-ac3f-a49ab8128491-profile_image-300x300.jpg",
+                    "name": "dragoneer3",
+                    "type": "user",
+                    "updated_at": "2019-08-30T18:58:26.468343Z"
+                },
+                "content_id": "497295395",
+                "content_offset_seconds": 27.927,
+                "content_type": "video",
+                "created_at": "2019-10-20T18:20:39.627Z",
+                "message": {
+                    "body": "NOT AGAIN PepeHands",
+                    "fragments": [
+                        {
+                            "text": "NOT AGAIN PepeHands"
+                        }
+                    ],
+                    "is_action": false,
+                    "user_badges": [
+                        {
+                            "_id": "premium",
+                            "version": "1"
+                        }
+                    ],
+                    "user_notice_params": {}
+                },
+                "more_replies": false,
+                "source": "chat",
+                "state": "published",
+                "updated_at": "2019-10-20T18:20:39.627Z"
+            },
+            {
+                "_id": "yBMuXUrJzxVGfw",
+                "channel_id": "36029255",
+                "commenter": {
+                    "_id": "99258624",
+                    "bio": null,
+                    "created_at": "2015-08-14T22:08:22.574903Z",
+                    "display_name": "Blooco",
+                    "logo": "https://static-cdn.jtvnw.net/jtv_user_pictures/db1e580a-0272-486d-8de5-e8a310942e58-profile_image-300x300.png",
+                    "name": "blooco",
+                    "type": "user",
+                    "updated_at": "2019-08-19T22:35:36.192143Z"
+                },
+                "content_id": "497295395",
+                "content_offset_seconds": 28,
+                "content_type": "video",
+                "created_at": "2019-10-21T22:15:16.145607855Z",
+                "message": {
+                    "body": "!drop",
+                    "fragments": [
+                        {
+                            "text": "!drop"
+                        }
+                    ],
+                    "is_action": false
+                },
+                "more_replies": false,
+                "source": "comment",
+                "state": "published",
+                "updated_at": "2019-10-21T22:15:16.145607855Z"
+            },
+            {
+                "_id": "oatCgMrRzxX_KQ",
+                "channel_id": "36029255",
+                "commenter": {
+                    "_id": "160842610",
+                    "bio": null,
+                    "created_at": "2017-06-20T16:14:56.078377Z",
+                    "display_name": "Almightybokchoy",
+                    "logo": "https://static-cdn.jtvnw.net/jtv_user_pictures/9c99a165ecc9d600-profile_image-300x300.png",
+                    "name": "almightybokchoy",
+                    "type": "user",
+                    "updated_at": "2019-10-06T02:11:24.123425Z"
+                },
+                "content_id": "497295395",
+                "content_offset_seconds": 28,
+                "content_type": "video",
+                "created_at": "2019-10-22T00:51:02.550868938Z",
+                "message": {
+                    "body": "!drop",
+                    "fragments": [
+                        {
+                            "text": "!drop"
+                        }
+                    ],
+                    "is_action": false
+                },
+                "more_replies": false,
+                "source": "comment",
+                "state": "published",
+                "updated_at": "2019-10-22T00:51:02.550868938Z"
+            },
+            {
+                "_id": "fqbQZ23QzxUf7g",
+                "channel_id": "36029255",
+                "commenter": {
+                    "_id": "116430966",
+                    "bio": "Please Subscribe and Donate whenever you want. I am not forcing anyone to do those things, just do it out of the kindness of the heart. And don't forget to just have fun and chat with people while watching",
+                    "created_at": "2016-02-20T15:17:59.575139Z",
+                    "display_name": "vf_goldkm",
+                    "logo": "https://static-cdn.jtvnw.net/jtv_user_pictures/439e26b1-f6fc-4177-9a51-0db1ea59e7ee-profile_image-300x300.jpg",
+                    "name": "vf_goldkm",
+                    "type": "user",
+                    "updated_at": "2019-09-09T19:23:53.089761Z"
+                },
+                "content_id": "497295395",
+                "content_offset_seconds": 29,
+                "content_type": "video",
+                "created_at": "2019-10-22T00:26:03.189520147Z",
+                "message": {
+                    "body": "!drop",
+                    "fragments": [
+                        {
+                            "text": "!drop"
+                        }
+                    ],
+                    "is_action": false,
+                    "user_badges": [
+                        {
+                            "_id": "premium",
+                            "version": "1"
+                        }
+                    ],
+                    "user_color": "#CBB701"
+                },
+                "more_replies": false,
+                "source": "comment",
+                "state": "published",
+                "updated_at": "2019-10-22T00:26:03.189520147Z"
+            },
+            {
+                "_id": "4Ln9LmdE0BWt-w",
+                "channel_id": "36029255",
+                "commenter": {
+                    "_id": "83749038",
+                    "bio": "no thank u",
+                    "created_at": "2015-02-25T17:02:00.470709Z",
+                    "display_name": "seabunnei",
+                    "logo": "https://static-cdn.jtvnw.net/jtv_user_pictures/66a08cf5-c191-40a8-8dd6-b160cf7f5ced-profile_image-300x300.png",
+                    "name": "seabunnei",
+                    "type": "user",
+                    "updated_at": "2019-10-23T12:02:34.766636Z"
+                },
+                "content_id": "497295395",
+                "content_offset_seconds": 29,
+                "content_type": "video",
+                "created_at": "2019-10-23T11:51:19.859498086Z",
+                "message": {
+                    "body": "VoHiYo",
+                    "emoticons": [
+                        {
+                            "_id": "81274",
+                            "begin": 0,
+                            "end": 5
+                        }
+                    ],
+                    "fragments": [
+                        {
+                            "emoticon": {
+                                "emoticon_id": "81274",
+                                "emoticon_set_id": "0"
+                            },
+                            "text": "VoHiYo"
+                        }
+                    ],
+                    "is_action": false,
+                    "user_color": "#FF7F50"
+                },
+                "more_replies": false,
+                "source": "comment",
+                "state": "published",
+                "updated_at": "2019-10-23T11:51:19.859498086Z"
+            },
+            {
+                "_id": "344524a8-6c9a-4583-b1bf-82b3575d0169",
+                "channel_id": "36029255",
+                "commenter": {
+                    "_id": "416641980",
+                    "bio": null,
+                    "created_at": "2019-02-15T08:53:50.36161Z",
+                    "display_name": "sounyuumaru",
+                    "logo": "https://static-cdn.jtvnw.net/user-default-pictures-uv/215b7342-def9-11e9-9a66-784f43822e80-profile_image-300x300.png",
+                    "name": "sounyuumaru",
+                    "type": "user",
+                    "updated_at": "2019-10-22T23:56:41.269328Z"
+                },
+                "content_id": "497295395",
+                "content_offset_seconds": 29.352,
+                "content_type": "video",
+                "created_at": "2019-10-20T18:20:41.052Z",
+                "message": {
+                    "body": "let IG clean up GRF",
+                    "fragments": [
+                        {
+                            "text": "let IG clean up GRF"
+                        }
+                    ],
+                    "is_action": false,
+                    "user_notice_params": {}
+                },
+                "more_replies": false,
+                "source": "chat",
+                "state": "published",
+                "updated_at": "2019-10-20T18:20:41.052Z"
+            },
+            {
+                "_id": "kxVPxZMQ0BUowA",
+                "channel_id": "36029255",
+                "commenter": {
+                    "_id": "128090832",
+                    "bio": "Hello, I'm Luc a CS:GO, plus more, streamer. I am not big one so I don't except donations :/          I usually stream on Saturdays around 2-3 o'clock on twitch. On YouTube, I stream on Sundays through out the day.",
+                    "created_at": "2016-06-29T21:24:35.759017Z",
+                    "display_name": "RealLuc",
+                    "logo": "https://static-cdn.jtvnw.net/jtv_user_pictures/realluc-profile_image-cf5d866fc5cc7859-300x300.png",
+                    "name": "realluc",
+                    "type": "user",
+                    "updated_at": "2019-10-20T16:36:54.689685Z"
+                },
+                "content_id": "497295395",
+                "content_offset_seconds": 30,
+                "content_type": "video",
+                "created_at": "2019-10-22T20:01:36.758405484Z",
+                "message": {
+                    "body": "HELLO",
+                    "fragments": [
+                        {
+                            "text": "HELLO"
+                        }
+                    ],
+                    "is_action": false
+                },
+                "more_replies": false,
+                "source": "comment",
+                "state": "published",
+                "updated_at": "2019-10-22T20:01:36.758405484Z"
+            },
+            {
+                "_id": "6b911016-851f-49e5-afa3-ae1b2f17544c",
+                "channel_id": "36029255",
+                "commenter": {
+                    "_id": "99939754",
+                    "bio": "Me from Afryka",
+                    "created_at": "2015-08-20T15:13:56.537581Z",
+                    "display_name": "MurzyneqBambo",
+                    "logo": "https://static-cdn.jtvnw.net/user-default-pictures-uv/75305d54-c7cc-40d1-bb9c-91fbe85943c7-profile_image-300x300.png",
+                    "name": "murzyneqbambo",
+                    "type": "user",
+                    "updated_at": "2019-09-23T01:36:20.25961Z"
+                },
+                "content_id": "497295395",
+                "content_offset_seconds": 31.617,
+                "content_type": "video",
+                "created_at": "2019-10-20T18:20:43.317Z",
+                "message": {
+                    "body": "EZ for TL Pog",
+                    "fragments": [
+                        {
+                            "text": "EZ for TL Pog"
+                        }
+                    ],
+                    "is_action": false,
+                    "user_color": "#D2691E",
+                    "user_notice_params": {}
+                },
+                "more_replies": false,
+                "source": "chat",
+                "state": "published",
+                "updated_at": "2019-10-20T18:20:43.317Z"
+            },
+            {
+                "_id": "c98d3c70-90c5-440a-bd58-84e4cca4b28d",
+                "channel_id": "36029255",
+                "commenter": {
+                    "_id": "159677129",
+                    "bio": null,
+                    "created_at": "2017-06-09T23:11:31.21724Z",
+                    "display_name": "cookiedemon24",
+                    "logo": "https://static-cdn.jtvnw.net/user-default-pictures-uv/215b7342-def9-11e9-9a66-784f43822e80-profile_image-300x300.png",
+                    "name": "cookiedemon24",
+                    "type": "user",
+                    "updated_at": "2019-08-28T20:42:13.101879Z"
+                },
+                "content_id": "497295395",
+                "content_offset_seconds": 32.687,
+                "content_type": "video",
+                "created_at": "2019-10-20T18:20:44.387Z",
+                "message": {
+                    "body": "anyone?",
+                    "fragments": [
+                        {
+                            "text": "anyone?"
+                        }
+                    ],
+                    "is_action": false,
+                    "user_notice_params": {}
+                },
+                "more_replies": false,
+                "source": "chat",
+                "state": "published",
+                "updated_at": "2019-10-20T18:20:44.387Z"
+            },
+            {
+                "_id": "hn3W4ffNzxUhjQ",
+                "channel_id": "36029255",
+                "commenter": {
+                    "_id": "450899359",
+                    "bio": "Mi nombre es Emiliano. Tengo 24 a\u00f1os, vivo en Mendoza, Argentina. Soy T\u00e9cnico en Desarrollo de Videojuegos.Soy un vicio de LoL por el momento porque es donde la computadora se lo banca pero juego de todo un poco Me gusta cagarme de risa y pasarla bien y sobre todo hacer re\u00edr ",
+                    "created_at": "2019-07-27T05:32:05.486679Z",
+                    "display_name": "SaysNoa",
+                    "logo": "https://static-cdn.jtvnw.net/jtv_user_pictures/0375572e-aa56-4ede-8e41-2509df371280-profile_image-300x300.png",
+                    "name": "saysnoa",
+                    "type": "user",
+                    "updated_at": "2019-10-22T15:06:11.820387Z"
+                },
+                "content_id": "497295395",
+                "content_offset_seconds": 36,
+                "content_type": "video",
+                "created_at": "2019-10-21T23:40:59.451666441Z",
+                "message": {
+                    "body": "!drop",
+                    "fragments": [
+                        {
+                            "text": "!drop"
+                        }
+                    ],
+                    "is_action": false
+                },
+                "more_replies": false,
+                "source": "comment",
+                "state": "published",
+                "updated_at": "2019-10-21T23:40:59.451666441Z"
+            },
+            {
+                "_id": "ICKQCuTVzxVBQA",
+                "channel_id": "36029255",
+                "commenter": {
+                    "_id": "269185735",
+                    "bio": null,
+                    "created_at": "2018-10-24T13:29:26.166185Z",
+                    "display_name": "daniell122333",
+                    "logo": "https://static-cdn.jtvnw.net/user-default-pictures-uv/13e5fa74-defa-11e9-809c-784f43822e80-profile_image-300x300.png",
+                    "name": "daniell122333",
+                    "type": "user",
+                    "updated_at": "2019-10-18T22:56:07.476986Z"
+                },
+                "content_id": "497295395",
+                "content_offset_seconds": 36,
+                "content_type": "video",
+                "created_at": "2019-10-22T02:06:10.335163102Z",
+                "message": {
+                    "body": "!drop",
+                    "fragments": [
+                        {
+                            "text": "!drop"
+                        }
+                    ],
+                    "is_action": false
+                },
+                "more_replies": false,
+                "source": "comment",
+                "state": "published",
+                "updated_at": "2019-10-22T02:06:10.335163102Z"
+            },
+            {
+                "_id": "A1p3n6z8zxVF7A",
+                "channel_id": "36029255",
+                "commenter": {
+                    "_id": "468408612",
+                    "bio": null,
+                    "created_at": "2019-10-21T14:58:03.646036Z",
+                    "display_name": "neveraend",
+                    "logo": "https://static-cdn.jtvnw.net/user-default-pictures-uv/de130ab0-def7-11e9-b668-784f43822e80-profile_image-300x300.png",
+                    "name": "neveraend",
+                    "type": "user",
+                    "updated_at": "2019-10-22T15:09:25.5931Z"
+                },
+                "content_id": "497295395",
+                "content_offset_seconds": 36,
+                "content_type": "video",
+                "created_at": "2019-10-22T13:56:53.263982045Z",
+                "message": {
+                    "body": "!schedule",
+                    "fragments": [
+                        {
+                            "text": "!schedule"
+                        }
+                    ],
+                    "is_action": false
+                },
+                "more_replies": false,
+                "source": "comment",
+                "state": "published",
+                "updated_at": "2019-10-22T13:56:53.263982045Z"
+            },
+            {
+                "_id": "6597c459-a764-4de6-a29c-68301ac043c5",
+                "channel_id": "36029255",
+                "commenter": {
+                    "_id": "132370946",
+                    "bio": null,
+                    "created_at": "2016-08-16T19:01:06.199779Z",
+                    "display_name": "youredownkid",
+                    "logo": "https://static-cdn.jtvnw.net/user-default-pictures-uv/cdd517fe-def4-11e9-948e-784f43822e80-profile_image-300x300.png",
+                    "name": "youredownkid",
+                    "type": "user",
+                    "updated_at": "2019-10-05T20:34:56.166478Z"
+                },
+                "content_id": "497295395",
+                "content_offset_seconds": 36.188,
+                "content_type": "video",
+                "created_at": "2019-10-20T18:20:47.888Z",
+                "message": {
+                    "body": "N OMEGALUL",
+                    "fragments": [
+                        {
+                            "text": "N OMEGALUL"
+                        }
+                    ],
+                    "is_action": false,
+                    "user_notice_params": {}
+                },
+                "more_replies": false,
+                "source": "chat",
+                "state": "published",
+                "updated_at": "2019-10-20T18:20:47.888Z"
+            },
+            {
+                "_id": "SrZlg9Ry0BWqhg",
+                "channel_id": "36029255",
+                "commenter": {
+                    "_id": "450899359",
+                    "bio": "Mi nombre es Emiliano. Tengo 24 a\u00f1os, vivo en Mendoza, Argentina. Soy T\u00e9cnico en Desarrollo de Videojuegos.Soy un vicio de LoL por el momento porque es donde la computadora se lo banca pero juego de todo un poco Me gusta cagarme de risa y pasarla bien y sobre todo hacer re\u00edr ",
+                    "created_at": "2019-07-27T05:32:05.486679Z",
+                    "display_name": "SaysNoa",
+                    "logo": "https://static-cdn.jtvnw.net/jtv_user_pictures/0375572e-aa56-4ede-8e41-2509df371280-profile_image-300x300.png",
+                    "name": "saysnoa",
+                    "type": "user",
+                    "updated_at": "2019-10-22T15:06:11.820387Z"
+                },
+                "content_id": "497295395",
+                "content_offset_seconds": 37,
+                "content_type": "video",
+                "created_at": "2019-10-24T02:02:06.942843718Z",
+                "message": {
+                    "body": "!drop",
+                    "fragments": [
+                        {
+                            "text": "!drop"
+                        }
+                    ],
+                    "is_action": false
+                },
+                "more_replies": false,
+                "source": "comment",
+                "state": "published",
+                "updated_at": "2019-10-24T02:02:06.942843718Z"
+            },
+            {
+                "_id": "r_UJ-CaKzxXbZA",
+                "channel_id": "36029255",
+                "commenter": {
+                    "_id": "14952404",
+                    "bio": null,
+                    "created_at": "2010-08-24T06:20:38.102518Z",
+                    "display_name": "Sma4",
+                    "logo": "https://static-cdn.jtvnw.net/jtv_user_pictures/fff663a1-a5b7-4a35-8e6b-19b3b9505276-profile_image-300x300.png",
+                    "name": "sma4",
+                    "type": "user",
+                    "updated_at": "2019-10-23T06:57:29.860453Z"
+                },
+                "content_id": "497295395",
+                "content_offset_seconds": 39,
+                "content_type": "video",
+                "created_at": "2019-10-21T02:58:14.894839272Z",
+                "message": {
+                    "body": "!drops",
+                    "fragments": [
+                        {
+                            "text": "!drops"
+                        }
+                    ],
+                    "is_action": false
+                },
+                "more_replies": false,
+                "source": "comment",
+                "state": "published",
+                "updated_at": "2019-10-21T02:58:14.894839272Z"
+            },
+            {
+                "_id": "kcAn563KzxXlcQ",
+                "channel_id": "36029255",
+                "commenter": {
+                    "_id": "466139222",
+                    "bio": null,
+                    "created_at": "2019-10-09T14:29:40.657878Z",
+                    "display_name": "feralover",
+                    "logo": "https://static-cdn.jtvnw.net/user-default-pictures-uv/998f01ae-def8-11e9-b95c-784f43822e80-profile_image-300x300.png",
+                    "name": "feralover",
+                    "type": "user",
+                    "updated_at": "2019-10-21T22:56:46.847396Z"
+                },
+                "content_id": "497295395",
+                "content_offset_seconds": 39,
+                "content_type": "video",
+                "created_at": "2019-10-21T22:40:43.155108534Z",
+                "message": {
+                    "body": "i see it offline but its wtf",
+                    "fragments": [
+                        {
+                            "text": "i see it offline but its wtf"
+                        }
+                    ],
+                    "is_action": false
+                },
+                "more_replies": false,
+                "source": "comment",
+                "state": "published",
+                "updated_at": "2019-10-21T22:40:43.155108534Z"
+            },
+            {
+                "_id": "d7aebeed-39ba-48da-9038-323587799866",
+                "channel_id": "36029255",
+                "commenter": {
+                    "_id": "184599438",
+                    "bio": null,
+                    "created_at": "2017-12-06T08:39:10.255329Z",
+                    "display_name": "cosiegapisz",
+                    "logo": "https://static-cdn.jtvnw.net/user-default-pictures-uv/13e5fa74-defa-11e9-809c-784f43822e80-profile_image-300x300.png",
+                    "name": "cosiegapisz",
+                    "type": "user",
+                    "updated_at": "2019-09-16T22:47:29.598904Z"
+                },
+                "content_id": "497295395",
+                "content_offset_seconds": 39.278,
+                "content_type": "video",
+                "created_at": "2019-10-20T18:20:50.978Z",
+                "message": {
+                    "body": "TL maybe win this",
+                    "fragments": [
+                        {
+                            "text": "TL maybe win this"
+                        }
+                    ],
+                    "is_action": false,
+                    "user_color": "#0000FF",
+                    "user_notice_params": {}
+                },
+                "more_replies": false,
+                "source": "chat",
+                "state": "published",
+                "updated_at": "2019-10-20T18:20:50.978Z"
+            },
+            {
+                "_id": "9a14203d-3b24-4a4a-9c0d-e3fdf2061252",
+                "channel_id": "36029255",
+                "commenter": {
+                    "_id": "238394196",
+                    "bio": null,
+                    "created_at": "2018-07-13T17:24:18.303443Z",
+                    "display_name": "LuukMHills",
+                    "logo": "https://static-cdn.jtvnw.net/jtv_user_pictures/0209ac6c-f0fd-458c-9235-a187467faaed-profile_image-300x300.png",
+                    "name": "luukmhills",
+                    "type": "user",
+                    "updated_at": "2019-10-18T17:13:53.64987Z"
+                },
+                "content_id": "497295395",
+                "content_offset_seconds": 39.632,
+                "content_type": "video",
+                "created_at": "2019-10-20T18:20:51.332Z",
+                "message": {
+                    "body": "@sounyuumaru Hope griffin but afraid they choke in bo5",
+                    "fragments": [
+                        {
+                            "text": "@sounyuumaru Hope griffin but afraid they choke in bo5"
+                        }
+                    ],
+                    "is_action": false,
+                    "user_notice_params": {}
+                },
+                "more_replies": false,
+                "source": "chat",
+                "state": "published",
+                "updated_at": "2019-10-20T18:20:51.332Z"
+            },
+            {
+                "_id": "f23ede00-daea-4c80-a414-fa1f91a3674d",
+                "channel_id": "36029255",
+                "commenter": {
+                    "_id": "186228650",
+                    "bio": null,
+                    "created_at": "2017-12-17T15:33:30.491569Z",
+                    "display_name": "mariolink213",
+                    "logo": "https://static-cdn.jtvnw.net/user-default-pictures-uv/ead5c8b2-a4c9-4724-b1dd-9f00b46cbd3d-profile_image-300x300.png",
+                    "name": "mariolink213",
+                    "type": "user",
+                    "updated_at": "2019-10-12T19:48:22.818951Z"
+                },
+                "content_id": "497295395",
+                "content_offset_seconds": 39.965,
+                "content_type": "video",
+                "created_at": "2019-10-20T18:20:51.665Z",
+                "message": {
+                    "body": "dont spoil the result for NA fans PepeLaugh",
+                    "fragments": [
+                        {
+                            "text": "dont spoil the result for NA fans PepeLaugh"
+                        }
+                    ],
+                    "is_action": false,
+                    "user_color": "#0000FF",
+                    "user_notice_params": {}
+                },
+                "more_replies": false,
+                "source": "chat",
+                "state": "published",
+                "updated_at": "2019-10-20T18:20:51.665Z"
+            },
+            {
+                "_id": "JND44QumzxXeVA",
+                "channel_id": "36029255",
+                "commenter": {
+                    "_id": "41386254",
+                    "bio": null,
+                    "created_at": "2013-03-16T12:52:09.505479Z",
+                    "display_name": "D4jje81",
+                    "logo": "https://static-cdn.jtvnw.net/user-default-pictures-uv/13e5fa74-defa-11e9-809c-784f43822e80-profile_image-300x300.png",
+                    "name": "d4jje81",
+                    "type": "user",
+                    "updated_at": "2019-09-01T08:05:04.362783Z"
+                },
+                "content_id": "497295395",
+                "content_offset_seconds": 40,
+                "content_type": "video",
+                "created_at": "2019-10-21T11:29:24.895341518Z",
+                "message": {
+                    "body": "no",
+                    "fragments": [
+                        {
+                            "text": "no"
+                        }
+                    ],
+                    "is_action": false,
+                    "user_badges": [
+                        {
+                            "_id": "premium",
+                            "version": "1"
+                        }
+                    ]
+                },
+                "more_replies": false,
+                "source": "comment",
+                "state": "published",
+                "updated_at": "2019-10-21T11:29:24.895341518Z"
+            },
+            {
+                "_id": "_G12s9bAzxUlxQ",
+                "channel_id": "36029255",
+                "commenter": {
+                    "_id": "254866027",
+                    "bio": null,
+                    "created_at": "2018-09-04T10:11:37.731846Z",
+                    "display_name": "luca_10k",
+                    "logo": "https://static-cdn.jtvnw.net/jtv_user_pictures/fbe7164f-d1da-4914-88cf-c5b00aa4d884-profile_image-300x300.png",
+                    "name": "luca_10k",
+                    "type": "user",
+                    "updated_at": "2019-10-14T14:08:12.142294Z"
+                },
+                "content_id": "497295395",
+                "content_offset_seconds": 41,
+                "content_type": "video",
+                "created_at": "2019-10-21T19:40:23.289161482Z",
+                "message": {
+                    "body": "ww",
+                    "fragments": [
+                        {
+                            "text": "ww"
+                        }
+                    ],
+                    "is_action": false,
+                    "user_badges": [
+                        {
+                            "_id": "premium",
+                            "version": "1"
+                        }
+                    ],
+                    "user_color": "#8A2BE2"
+                },
+                "more_replies": false,
+                "source": "comment",
+                "state": "published",
+                "updated_at": "2019-10-21T19:40:23.289161482Z"
+            },
+            {
+                "_id": "f5f39925-f17a-41ca-a6e0-6da49f9a9d60",
+                "channel_id": "36029255",
+                "commenter": {
+                    "_id": "107819894",
+                    "bio": null,
+                    "created_at": "2015-11-23T17:15:27.648115Z",
+                    "display_name": "tricotdepull",
+                    "logo": "https://static-cdn.jtvnw.net/jtv_user_pictures/tricotdepull-profile_image-f12f7975ce1ff3e9-300x300.jpeg",
+                    "name": "tricotdepull",
+                    "type": "user",
+                    "updated_at": "2019-09-26T22:38:52.333868Z"
+                },
+                "content_id": "497295395",
+                "content_offset_seconds": 44.438,
+                "content_type": "video",
+                "created_at": "2019-10-20T18:20:56.138Z",
+                "message": {
+                    "body": "This is live ?",
+                    "fragments": [
+                        {
+                            "text": "This is live ?"
+                        }
+                    ],
+                    "is_action": false,
+                    "user_color": "#00FF7F",
+                    "user_notice_params": {}
+                },
+                "more_replies": false,
+                "source": "chat",
+                "state": "published",
+                "updated_at": "2019-10-20T18:20:56.138Z"
+            },
+            {
+                "_id": "8568e2cf-ba52-4517-b22c-08e8dfc932ae",
+                "channel_id": "36029255",
+                "commenter": {
+                    "_id": "163871464",
+                    "bio": null,
+                    "created_at": "2017-07-10T12:08:06.320016Z",
+                    "display_name": "dawid260601",
+                    "logo": "https://static-cdn.jtvnw.net/user-default-pictures-uv/998f01ae-def8-11e9-b95c-784f43822e80-profile_image-300x300.png",
+                    "name": "dawid260601",
+                    "type": "user",
+                    "updated_at": "2019-10-20T15:16:12.098421Z"
+                },
+                "content_id": "497295395",
+                "content_offset_seconds": 47.731,
+                "content_type": "video",
+                "created_at": "2019-10-20T18:20:59.431Z",
+                "message": {
+                    "body": "!reward",
+                    "fragments": [
+                        {
+                            "text": "!reward"
+                        }
+                    ],
+                    "is_action": false,
+                    "user_notice_params": {}
+                },
+                "more_replies": false,
+                "source": "chat",
+                "state": "published",
+                "updated_at": "2019-10-20T18:20:59.431Z"
+            },
+            {
+                "_id": "mf5Vzc6ozxXdiQ",
+                "channel_id": "36029255",
+                "commenter": {
+                    "_id": "468082810",
+                    "bio": null,
+                    "created_at": "2019-10-19T20:00:21.546577Z",
+                    "display_name": "Ace_Rodus",
+                    "logo": "https://static-cdn.jtvnw.net/jtv_user_pictures/0205000a-cbd9-4820-944a-a7dd576a5429-profile_image-300x300.png",
+                    "name": "ace_rodus",
+                    "type": "user",
+                    "updated_at": "2019-10-21T12:10:21.893728Z"
+                },
+                "content_id": "497295395",
+                "content_offset_seconds": 48,
+                "content_type": "video",
+                "created_at": "2019-10-21T12:20:01.074536632Z",
+                "message": {
+                    "body": "h kChina",
+                    "fragments": [
+                        {
+                            "text": "h kChina"
+                        }
+                    ],
+                    "is_action": false
+                },
+                "more_replies": false,
+                "source": "comment",
+                "state": "published",
+                "updated_at": "2019-10-21T12:20:01.074536632Z"
+            },
+            {
+                "_id": "pIcnKvTEzxV-qg",
+                "channel_id": "36029255",
+                "commenter": {
+                    "_id": "409477056",
+                    "bio": null,
+                    "created_at": "2019-01-14T17:38:10.715998Z",
+                    "display_name": "hectorlasbr",
+                    "logo": "https://static-cdn.jtvnw.net/user-default-pictures-uv/215b7342-def9-11e9-9a66-784f43822e80-profile_image-300x300.png",
+                    "name": "hectorlasbr",
+                    "type": "user",
+                    "updated_at": "2019-01-14T17:38:10.715998Z"
+                },
+                "content_id": "497295395",
+                "content_offset_seconds": 49,
+                "content_type": "video",
+                "created_at": "2019-10-21T20:55:47.882250996Z",
+                "message": {
+                    "body": "!DROP",
+                    "fragments": [
+                        {
+                            "text": "!DROP"
+                        }
+                    ],
+                    "is_action": false
+                },
+                "more_replies": false,
+                "source": "comment",
+                "state": "published",
+                "updated_at": "2019-10-21T20:55:47.882250996Z"
+            },
+            {
+                "_id": "2f16d3b9-68e6-4ce4-ac66-4ca00f3aa804",
+                "channel_id": "36029255",
+                "commenter": {
+                    "_id": "47030214",
+                    "bio": "Hello! I love video games. Welcome to my channel!    Banner image courtesy of ESA/Hubble. ",
+                    "created_at": "2013-08-03T05:17:07.347938Z",
+                    "display_name": "igigi91",
+                    "logo": "https://static-cdn.jtvnw.net/jtv_user_pictures/fa4e9167-6d05-441d-ac6d-1139c69d630c-profile_image-300x300.png",
+                    "name": "igigi91",
+                    "type": "user",
+                    "updated_at": "2019-10-25T04:25:37.199378Z"
+                },
+                "content_id": "497295395",
+                "content_offset_seconds": 51.172,
+                "content_type": "video",
+                "created_at": "2019-10-20T18:21:02.872Z",
+                "message": {
+                    "body": "LUL",
+                    "emoticons": [
+                        {
+                            "_id": "425618",
+                            "begin": 0,
+                            "end": 2
+                        }
+                    ],
+                    "fragments": [
+                        {
+                            "emoticon": {
+                                "emoticon_id": "425618",
+                                "emoticon_set_id": ""
+                            },
+                            "text": "LUL"
+                        }
+                    ],
+                    "is_action": false,
+                    "user_badges": [
+                        {
+                            "_id": "bits-charity",
+                            "version": "1"
+                        }
+                    ],
+                    "user_color": "#FF0000",
+                    "user_notice_params": {}
+                },
+                "more_replies": false,
+                "source": "chat",
+                "state": "published",
+                "updated_at": "2019-10-20T18:21:02.872Z"
+            },
+            {
+                "_id": "79d3bac1-9f07-49fe-94da-4a88c99f0ce0",
+                "channel_id": "36029255",
+                "commenter": {
+                    "_id": "416641980",
+                    "bio": null,
+                    "created_at": "2019-02-15T08:53:50.36161Z",
+                    "display_name": "sounyuumaru",
+                    "logo": "https://static-cdn.jtvnw.net/user-default-pictures-uv/215b7342-def9-11e9-9a66-784f43822e80-profile_image-300x300.png",
+                    "name": "sounyuumaru",
+                    "type": "user",
+                    "updated_at": "2019-10-22T23:56:41.269328Z"
+                },
+                "content_id": "497295395",
+                "content_offset_seconds": 51.9,
+                "content_type": "video",
+                "created_at": "2019-10-20T18:21:03.6Z",
+                "message": {
+                    "body": "@LuukMHills i need sword to lose",
+                    "fragments": [
+                        {
+                            "text": "@LuukMHills i need sword to lose"
+                        }
+                    ],
+                    "is_action": false,
+                    "user_notice_params": {}
+                },
+                "more_replies": false,
+                "source": "chat",
+                "state": "published",
+                "updated_at": "2019-10-20T18:21:03.6Z"
+            },
+            {
+                "_id": "90ce1f8d-dae2-4d66-82fd-88a5319dd896",
+                "channel_id": "36029255",
+                "commenter": {
+                    "_id": "228038741",
+                    "bio": null,
+                    "created_at": "2018-06-02T08:12:07.826971Z",
+                    "display_name": "necrover_",
+                    "logo": "https://static-cdn.jtvnw.net/jtv_user_pictures/d8086d01-1c58-47fc-a748-eebaaf4eeead-profile_image-300x300.jpg",
+                    "name": "necrover_",
+                    "type": "user",
+                    "updated_at": "2019-10-18T18:51:35.051184Z"
+                },
+                "content_id": "497295395",
+                "content_offset_seconds": 52.197,
+                "content_type": "video",
+                "created_at": "2019-10-20T18:21:03.897Z",
+                "message": {
+                    "body": "PepeLaugh",
+                    "fragments": [
+                        {
+                            "text": "PepeLaugh"
+                        }
+                    ],
+                    "is_action": false,
+                    "user_color": "#008000",
+                    "user_notice_params": {}
+                },
+                "more_replies": false,
+                "source": "chat",
+                "state": "published",
+                "updated_at": "2019-10-20T18:21:03.897Z"
+            },
+            {
+                "_id": "4ef4d253-9a6e-4514-b038-7c950fd84669",
+                "channel_id": "36029255",
+                "commenter": {
+                    "_id": "99939754",
+                    "bio": "Me from Afryka",
+                    "created_at": "2015-08-20T15:13:56.537581Z",
+                    "display_name": "MurzyneqBambo",
+                    "logo": "https://static-cdn.jtvnw.net/user-default-pictures-uv/75305d54-c7cc-40d1-bb9c-91fbe85943c7-profile_image-300x300.png",
+                    "name": "murzyneqbambo",
+                    "type": "user",
+                    "updated_at": "2019-09-23T01:36:20.25961Z"
+                },
+                "content_id": "497295395",
+                "content_offset_seconds": 53.904,
+                "content_type": "video",
+                "created_at": "2019-10-20T18:21:05.604Z",
+                "message": {
+                    "body": "5-1 TL inc",
+                    "fragments": [
+                        {
+                            "text": "5-1 TL inc"
+                        }
+                    ],
+                    "is_action": false,
+                    "user_color": "#D2691E",
+                    "user_notice_params": {}
+                },
+                "more_replies": false,
+                "source": "chat",
+                "state": "published",
+                "updated_at": "2019-10-20T18:21:05.604Z"
+            },
+            {
+                "_id": "WxIlY9CozxV5OQ",
+                "channel_id": "36029255",
+                "commenter": {
+                    "_id": "468082810",
+                    "bio": null,
+                    "created_at": "2019-10-19T20:00:21.546577Z",
+                    "display_name": "Ace_Rodus",
+                    "logo": "https://static-cdn.jtvnw.net/jtv_user_pictures/0205000a-cbd9-4820-944a-a7dd576a5429-profile_image-300x300.png",
+                    "name": "ace_rodus",
+                    "type": "user",
+                    "updated_at": "2019-10-21T12:10:21.893728Z"
+                },
+                "content_id": "497295395",
+                "content_offset_seconds": 55,
+                "content_type": "video",
+                "created_at": "2019-10-21T12:20:07.850945122Z",
+                "message": {
+                    "body": "hk China",
+                    "fragments": [
+                        {
+                            "text": "hk China"
+                        }
+                    ],
+                    "is_action": false
+                },
+                "more_replies": false,
+                "source": "comment",
+                "state": "published",
+                "updated_at": "2019-10-21T12:20:07.850945122Z"
+            },
+            {
+                "_id": "jj4o61QA0BXqlg",
+                "channel_id": "36029255",
+                "commenter": {
+                    "_id": "225993123",
+                    "bio": null,
+                    "created_at": "2018-05-25T19:34:13.515522Z",
+                    "display_name": "theaaronshot",
+                    "logo": "https://static-cdn.jtvnw.net/user-default-pictures-uv/75305d54-c7cc-40d1-bb9c-91fbe85943c7-profile_image-300x300.png",
+                    "name": "theaaronshot",
+                    "type": "user",
+                    "updated_at": "2019-05-24T02:53:45.851974Z"
+                },
+                "content_id": "497295395",
+                "content_offset_seconds": 56,
+                "content_type": "video",
+                "created_at": "2019-10-22T15:03:54.612431829Z",
+                "message": {
+                    "body": "!drop",
+                    "fragments": [
+                        {
+                            "text": "!drop"
+                        }
+                    ],
+                    "is_action": false
+                },
+                "more_replies": false,
+                "source": "comment",
+                "state": "published",
+                "updated_at": "2019-10-22T15:03:54.612431829Z"
+            },
+            {
+                "_id": "c35a674f-9639-4c50-8272-1a42842a8a16",
+                "channel_id": "36029255",
+                "commenter": {
+                    "_id": "132370946",
+                    "bio": null,
+                    "created_at": "2016-08-16T19:01:06.199779Z",
+                    "display_name": "youredownkid",
+                    "logo": "https://static-cdn.jtvnw.net/user-default-pictures-uv/cdd517fe-def4-11e9-948e-784f43822e80-profile_image-300x300.png",
+                    "name": "youredownkid",
+                    "type": "user",
+                    "updated_at": "2019-10-05T20:34:56.166478Z"
+                },
+                "content_id": "497295395",
+                "content_offset_seconds": 57.671,
+                "content_type": "video",
+                "created_at": "2019-10-20T18:21:09.371Z",
+                "message": {
+                    "body": "PepeLaugh",
+                    "fragments": [
+                        {
+                            "text": "PepeLaugh"
+                        }
+                    ],
+                    "is_action": false,
+                    "user_notice_params": {}
+                },
+                "more_replies": false,
+                "source": "chat",
+                "state": "published",
+                "updated_at": "2019-10-20T18:21:09.371Z"
+            },
+            {
+                "_id": "b9cb6770-06b5-44b9-8336-9f16e74951ef",
+                "channel_id": "36029255",
+                "commenter": {
+                    "_id": "90667356",
+                    "bio": null,
+                    "created_at": "2015-05-09T19:32:48.70085Z",
+                    "display_name": "Elominatiq",
+                    "logo": "https://static-cdn.jtvnw.net/user-default-pictures-uv/13e5fa74-defa-11e9-809c-784f43822e80-profile_image-300x300.png",
+                    "name": "elominatiq",
+                    "type": "user",
+                    "updated_at": "2019-10-20T17:16:37.174391Z"
+                },
+                "content_id": "497295395",
+                "content_offset_seconds": 58.979,
+                "content_type": "video",
+                "created_at": "2019-10-20T18:21:10.679Z",
+                "message": {
+                    "body": "ofc not I wont give them 0 hints",
+                    "fragments": [
+                        {
+                            "text": "ofc not I wont give them 0 hints"
+                        }
+                    ],
+                    "is_action": false,
+                    "user_badges": [
+                        {
+                            "_id": "premium",
+                            "version": "1"
+                        }
+                    ],
+                    "user_notice_params": {}
+                },
+                "more_replies": false,
+                "source": "chat",
+                "state": "published",
+                "updated_at": "2019-10-20T18:21:10.679Z"
+            },
+            {
+                "_id": "5kWT-W51zxVCOQ",
+                "channel_id": "36029255",
+                "commenter": {
+                    "_id": "432365066",
+                    "bio": null,
+                    "created_at": "2019-04-26T04:17:59.260107Z",
+                    "display_name": "DisguisedToest",
+                    "logo": "https://static-cdn.jtvnw.net/jtv_user_pictures/035cd56c-7969-41df-9a66-6fa8878c32fd-profile_image-300x300.png",
+                    "name": "disguisedtoest",
+                    "type": "user",
+                    "updated_at": "2019-10-24T02:35:33.833384Z"
+                },
+                "content_id": "497295395",
+                "content_offset_seconds": 59,
+                "content_type": "video",
+                "created_at": "2019-10-20T20:38:34.340024015Z",
+                "message": {
+                    "body": "DID TL Wonnered Chat?",
+                    "fragments": [
+                        {
+                            "text": "DID TL Wonnered Chat?"
+                        }
+                    ],
+                    "is_action": false,
+                    "user_badges": [
+                        {
+                            "_id": "premium",
+                            "version": "1"
+                        }
+                    ],
+                    "user_color": "#8500FF"
+                },
+                "more_replies": false,
+                "source": "comment",
+                "state": "published",
+                "updated_at": "2019-10-20T20:38:34.340024015Z"
+            },
+            {
+                "_id": "1bbd70d5-0e49-436d-b3bf-1d15c864a93a",
+                "channel_id": "36029255",
+                "commenter": {
+                    "_id": "467208944",
+                    "bio": null,
+                    "created_at": "2019-10-14T23:05:35.363427Z",
+                    "display_name": "wasitcomming",
+                    "logo": "https://static-cdn.jtvnw.net/user-default-pictures-uv/ce57700a-def9-11e9-842d-784f43822e80-profile_image-300x300.png",
+                    "name": "wasitcomming",
+                    "type": "user",
+                    "updated_at": "2019-10-14T23:05:35.363427Z"
+                },
+                "content_id": "497295395",
+                "content_offset_seconds": 60.144,
+                "content_type": "video",
+                "created_at": "2019-10-20T18:21:11.844Z",
+                "message": {
+                    "body": "yes , it says live in the top right corner",
+                    "fragments": [
+                        {
+                            "text": "yes , it says live in the top right corner"
+                        }
+                    ],
+                    "is_action": false,
+                    "user_notice_params": {}
+                },
+                "more_replies": false,
+                "source": "chat",
+                "state": "published",
+                "updated_at": "2019-10-20T18:21:11.844Z"
+            },
+            {
+                "_id": "032ccd5d-af84-4ae6-9f53-2c17cf89471c",
+                "channel_id": "36029255",
+                "commenter": {
+                    "_id": "458407512",
+                    "bio": null,
+                    "created_at": "2019-08-31T17:09:52.563954Z",
+                    "display_name": "voidlingyordle",
+                    "logo": "https://static-cdn.jtvnw.net/user-default-pictures-uv/41780b5a-def8-11e9-94d9-784f43822e80-profile_image-300x300.png",
+                    "name": "voidlingyordle",
+                    "type": "user",
+                    "updated_at": "2019-10-20T18:10:36.070601Z"
+                },
+                "content_id": "497295395",
+                "content_offset_seconds": 60.738,
+                "content_type": "video",
+                "created_at": "2019-10-20T18:21:12.438Z",
+                "message": {
+                    "body": "CHECK THE CHAT BTW, EU SUPPORTED TL AGAINST IG",
+                    "fragments": [
+                        {
+                            "text": "CHECK THE CHAT BTW, EU SUPPORTED TL AGAINST IG"
+                        }
+                    ],
+                    "is_action": false,
+                    "user_notice_params": {}
+                },
+                "more_replies": false,
+                "source": "chat",
+                "state": "published",
+                "updated_at": "2019-10-20T18:21:12.438Z"
+            },
+            {
+                "_id": "vnVkA6SlzxVHRA",
+                "channel_id": "36029255",
+                "commenter": {
+                    "_id": "41386254",
+                    "bio": null,
+                    "created_at": "2013-03-16T12:52:09.505479Z",
+                    "display_name": "D4jje81",
+                    "logo": "https://static-cdn.jtvnw.net/user-default-pictures-uv/13e5fa74-defa-11e9-809c-784f43822e80-profile_image-300x300.png",
+                    "name": "d4jje81",
+                    "type": "user",
+                    "updated_at": "2019-09-01T08:05:04.362783Z"
+                },
+                "content_id": "497295395",
+                "content_offset_seconds": 61,
+                "content_type": "video",
+                "created_at": "2019-10-21T11:21:58.7721586Z",
+                "message": {
+                    "body": "FortOne FortOne",
+                    "emoticons": [
+                        {
+                            "_id": "822112",
+                            "begin": 0,
+                            "end": 6
+                        },
+                        {
+                            "_id": "822112",
+                            "begin": 8,
+                            "end": 14
+                        }
+                    ],
+                    "fragments": [
+                        {
+                            "emoticon": {
+                                "emoticon_id": "822112",
+                                "emoticon_set_id": "19194"
+                            },
+                            "text": "FortOne"
+                        },
+                        {
+                            "text": " "
+                        },
+                        {
+                            "emoticon": {
+                                "emoticon_id": "822112",
+                                "emoticon_set_id": "19194"
+                            },
+                            "text": "FortOne"
+                        }
+                    ],
+                    "is_action": false,
+                    "user_badges": [
+                        {
+                            "_id": "premium",
+                            "version": "1"
+                        }
+                    ]
+                },
+                "more_replies": false,
+                "source": "comment",
+                "state": "published",
+                "updated_at": "2019-10-21T11:21:58.7721586Z"
+            },
+            {
+                "_id": "VvCmkVGSzxUzGg",
+                "channel_id": "36029255",
+                "commenter": {
+                    "_id": "261538879",
+                    "bio": null,
+                    "created_at": "2018-09-22T10:02:23.275207Z",
+                    "display_name": "zaddyxyborg",
+                    "logo": "https://static-cdn.jtvnw.net/user-default-pictures-uv/cdd517fe-def4-11e9-948e-784f43822e80-profile_image-300x300.png",
+                    "name": "zaddyxyborg",
+                    "type": "user",
+                    "updated_at": "2019-10-21T05:25:48.117532Z"
+                },
+                "content_id": "497295395",
+                "content_offset_seconds": 63,
+                "content_type": "video",
+                "created_at": "2019-10-21T05:27:53.947286753Z",
+                "message": {
+                    "body": "!drop",
+                    "fragments": [
+                        {
+                            "text": "!drop"
+                        }
+                    ],
+                    "is_action": false
+                },
+                "more_replies": false,
+                "source": "comment",
+                "state": "published",
+                "updated_at": "2019-10-21T05:27:53.947286753Z"
+            }
+        ]
+}            
